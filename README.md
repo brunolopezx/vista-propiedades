@@ -2,7 +2,7 @@
 
 Plataforma inmobiliaria desarrollada con React. Proyecto de portfolio que simula un sitio real de compra y alquiler de propiedades en Buenos Aires.
 
-🔗 [Ver demo en vivo](#) ← actualizá con la URL de Vercel
+🔗 [Ver demo en vivo](https://vista-propiedades.vercel.app)
 
 ---
 
